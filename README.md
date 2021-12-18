@@ -1,19 +1,19 @@
 # [vue2-drag-verify](https://www.npmjs.com/package/vue2-drag-verify)
 
 > This is a vue component, which is sliding to unlock for login or sign up.
-[demo](https://fewbadboy.github.io/vue-verify/)
+[demo](https://fewbadboy.github.io/vue2-drag-verify/)
 
 ## Installation
 
 ``` bash
-npm install vue-verify --save
+npm install vue2-drag-verify --save
 # or
-yarn add vue-verify
+yarn add vue2-drag-verify
 ```
 
 ## Usage
 ``` xml
-<vue-verify :width="width" 
+<vue2-drag-verify :width="width" 
 	:height="height" 
 	:text="text" 
 	:success-text="successText" 
@@ -24,17 +24,17 @@ yarn add vue-verify
 	:handler-icon="handlerIcon" 
 	:text-size="textSize" 
 	:success-icon="successIcon" 
-	:circle="getShape"></vue-verify>
+	:circle="getShape"></vue2-drag-verify>
 ```
 
 ``` javascript
 import Vue from 'vue'
-import VueVerify from 'vue2-drag-verify'
+import Vue2DragVerify from 'vue2-drag-verify'
 
 export default {
   name: 'app',
   components:{
-    VueVerify
+    Vue2DragVerify
   }
 }
 ```

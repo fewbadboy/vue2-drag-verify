@@ -2,7 +2,7 @@
   <div id="app">
   <div class="content">
     <section class="head">
-      <h1>Vue Verify</h1>
+      <h1>Vue2 Drag Verify</h1>
       <h3>This is a vue component, which is sliding to unlock for login or sign up. This is used to protect your web app from bot attack.</h3>
 
     </section>
