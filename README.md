@@ -1,7 +1,7 @@
-# vue-verify [vue-verify](https://www.npmjs.com/package/vue-verify)
+# [vue-verify](https://www.npmjs.com/package/vue-verify)
 
 > This is a vue component, which is sliding to unlock for login or sign up.
-[demo](https://ashleylv.github.io/vue-verify/)
+[demo](https://fewbadboy.github.io/vue-verify/)
 
 ## Installation
 
@@ -15,17 +15,17 @@ yarn add vue-verify
 ## Usage
 ``` xml
 <vue-verify :width="width" 
-			 :height="height" 
-			 :text="text" 
-			 :success-text="successText" 
-			 :background="background" 
-			 :progress-bar-bg="progressBarBg" 
-			 :completed-bg="completedBg" 
-			 :handler-bg="handlerBg" 
-			 :handler-icon="handlerIcon" 
-			 :text-size="textSize" 
-			 :success-icon="successIcon" 
-			 :circle="getShape"></vue-verify>
+	:height="height" 
+	:text="text" 
+	:success-text="successText" 
+	:background="background" 
+	:progress-bar-bg="progressBarBg" 
+	:completed-bg="completedBg" 
+	:handler-bg="handlerBg" 
+	:handler-icon="handlerIcon" 
+	:text-size="textSize" 
+	:success-icon="successIcon" 
+	:circle="getShape"></vue-verify>
 ```
 
 ``` javascript
