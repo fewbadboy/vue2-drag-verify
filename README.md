@@ -1,4 +1,4 @@
-# [vue-verify](https://www.npmjs.com/package/vue-verify)
+# [vue2-drag-verify](https://www.npmjs.com/package/vue2-drag-verify)
 
 > This is a vue component, which is sliding to unlock for login or sign up.
 [demo](https://fewbadboy.github.io/vue-verify/)
@@ -29,7 +29,7 @@ yarn add vue-verify
 
 ``` javascript
 import Vue from 'vue'
-import VueVerify from 'vue-verify'
+import VueVerify from 'vue2-drag-verify'
 
 export default {
   name: 'app',
