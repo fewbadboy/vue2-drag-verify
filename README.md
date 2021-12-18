@@ -1,7 +1,7 @@
 # [vue-verify](https://www.npmjs.com/package/vue-verify)
 
 > This is a vue component, which is sliding to unlock for login or sign up.
-[demo](https://ashleylv.github.io/vue-verify/)
+[demo](https://fewbadboy.github.io/vue-verify/)
 
 ## Installation
 
