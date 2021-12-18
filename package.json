@@ -1,5 +1,5 @@
 {
-    "name": "@vue/vue-verify",
+    "name": "@fewbadboy/vue-verify",
     "description": "This is a vue component, which is sliding to unlock for login or sign up.",
     "version": "1.0.0",
     "author": "fewbadboy <1294234810@qq.com>",
