@@ -8,7 +8,6 @@
 ``` bash
 npm install vue-verify --save
 # or
-
 yarn add vue-verify
 ```
 
