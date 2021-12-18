@@ -1,6 +1,5 @@
 <template>
-	<div class="drag_verify" :style="dragVerifyStyle" @mousemove="dragMoving" @mouseup="dragFinish" @touchmove="dragMoving" @touchend="dragFinish">
-			
+	<div class="drag_verify" :style="dragVerifyStyle" @mousemove="dragMoving" @mouseup="dragFinish" @touchmove="dragMoving" @touchend="dragFinish">		
 		<div class="dv_progress_bar" ref="progressBar" :style="progressBarStyle"></div>
 		<div class="dv_text" :style="textStyle" ref="message">{{message}}</div>
 		

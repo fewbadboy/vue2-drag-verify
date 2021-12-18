@@ -4,9 +4,7 @@
     <section class="head">
       <h1>Vue2 Drag Verify</h1>
       <h3>This is a vue component, which is sliding to unlock for login or sign up.</h3>
-
     </section>
-    
     <section class="demo-section">
     <div class="column">
       <drag-verify
